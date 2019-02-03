@@ -1,3 +1,4 @@
+#!/bin/sh
 Version=$1
 ARTIFACTORY_USER=$2
 ARTIFACTORY_PASSWORD=$3
